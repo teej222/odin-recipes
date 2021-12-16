@@ -5,4 +5,11 @@ DISCLAIMER:
 This is a work of fiction. Any similarity to actual persons, living or dead, or actual events, is purely coincidental.
 
 Skills Demonstrated:
-Work in progress, come back later!
+HTML:
+Paragraphs
+Ordered and Unordered lists
+Images
+Hyperlinks
+
+Code Hygiene:
+Frequent commits with good notes
