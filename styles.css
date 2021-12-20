@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    background-color: rgba(140, 0, 255, 0.158);
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgba(203, 227, 236, 0.589);
+}
+
+.chef {
+    height: 1000px;
+    width: 300px;
+}
+
+.desc {
+    font-size: 22px;
+}
+
+ul,
+ol,
+h2 {
+    text-align: left;
+}
+
+h2 {
+    color: darkblue;
+}
+
+a {
+    font-weight: bold;
+    color:darkolivegreen;
+    font-size:x-large;
+}
