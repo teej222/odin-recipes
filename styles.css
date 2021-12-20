@@ -14,6 +14,11 @@ body {
     width: 300px;
 }
 
+.food {
+    height: auto;
+    width: 500px;
+}
+
 .desc {
     font-size: 22px;
 }
